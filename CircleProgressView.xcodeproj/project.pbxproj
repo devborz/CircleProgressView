@@ -13,6 +13,7 @@
 		8D61C91327A2060600E39C95 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D61C91127A2060600E39C95 /* Main.storyboard */; };
 		8D61C91527A2060700E39C95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D61C91427A2060700E39C95 /* Assets.xcassets */; };
 		8D61C91827A2060700E39C95 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D61C91627A2060700E39C95 /* LaunchScreen.storyboard */; };
+		8D61C92027A2064A00E39C95 /* CircleProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D61C91F27A2064A00E39C95 /* CircleProgressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8D61C91427A2060700E39C95 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D61C91727A2060700E39C95 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D61C91927A2060700E39C95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D61C91F27A2064A00E39C95 /* CircleProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleProgressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8D61C91427A2060700E39C95 /* Assets.xcassets */,
 				8D61C91627A2060700E39C95 /* LaunchScreen.storyboard */,
 				8D61C91927A2060700E39C95 /* Info.plist */,
+				8D61C91F27A2064A00E39C95 /* CircleProgressView.swift */,
 			);
 			path = CircleProgressView;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D61C91027A2060600E39C95 /* ViewController.swift in Sources */,
+				8D61C92027A2064A00E39C95 /* CircleProgressView.swift in Sources */,
 				8D61C90C27A2060600E39C95 /* AppDelegate.swift in Sources */,
 				8D61C90E27A2060600E39C95 /* SceneDelegate.swift in Sources */,
 			);
